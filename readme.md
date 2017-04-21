@@ -1,4 +1,4 @@
-IDED_Fundamentos_201710_Parcial3
+﻿IDED_Fundamentos_201710_Parcial3
 
 Universidad Pontificia Bolivariana
 
@@ -8,9 +8,8 @@ Fundamentos de Programación
 
 Parcial 3
 
-Nombre: (Edite este archivo llenando este dato)
-
-ID: (Edite este archivo llenando este dato)
+Nombre: Diego Rodriguez Garcia
+ID: 000315539
 
 Fecha: Abril 21 de 2017
 
@@ -30,3 +29,4 @@ NOTAS PREVIAS
 El proyecto contiene un esqueleto de funciones que hacen operaciones de matrices (suma, producto por escalar, producto por matriz y una operación adicional que ha sido definida en el código). Usted debe escribir los cuerpos de esas funciones, validando, además, que los parámetros dados satisfagan las condiciones necesarias para que los mismos sean operables.
 
 Posteriormente usted debe ejecutar las pruebas diseñadas. Una vez TODAS sus pruebas estén correctas, notificará al profesor, él pasará a revisar y usted podrá hacer el commit a su repositorio. Se recomienda que escriba los cuerpos de las funciones de manera que soporten los datos de las pruebas Y CUALQUIER OTRO conjunto de datos que pudieran proveerse posteriormente.
+
